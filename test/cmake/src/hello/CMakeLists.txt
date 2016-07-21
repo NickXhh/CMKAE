@@ -1,0 +1,4 @@
+FILE(GLOB SOURCE_1 "${PROJECT_ROOT_PATH}/hello/hello.cpp")
+ADD_LIBRARY(hello STATIC ${SOURCE_1})
+
+

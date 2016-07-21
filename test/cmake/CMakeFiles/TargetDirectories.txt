@@ -1,0 +1,2 @@
+/home/xuhehe/test/cmake/src/hello/CMakeFiles/hello.dir
+/home/xuhehe/test/cmake/src/main/CMakeFiles/main.dir

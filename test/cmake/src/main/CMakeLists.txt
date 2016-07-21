@@ -1,0 +1,6 @@
+FILE(GLOB SOURCE_1 "${PROJECT_ROOT_PATH}/main/main.cpp")
+
+ADD_EXECUTABLE(main ${SOURCE_1})
+
+TARGET_LINK_LIBRARIES(main hello)
+
